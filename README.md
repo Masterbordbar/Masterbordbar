@@ -46,16 +46,15 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![yarn](https://img.shields.io/badge/yarn-2188b6?logo=yarn&logoColor=white&style=for-the-badge)
 ![vitejs](https://img.shields.io/badge/vite-bd34fe?logo=vite&logoColor=white&style=for-the-badge)
 ![webpack](https://img.shields.io/badge/webpack-2188b6?logo=webpack&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge)
 ![wordpress](https://img.shields.io/badge/wordpress-1e1e1e?logo=wordpress&logoColor=white&style=for-the-badge)
 
 ---
 
-### 💻 Software and Tools:
+### 💻 Software:
 ![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)

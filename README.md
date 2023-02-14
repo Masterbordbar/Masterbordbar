@@ -44,6 +44,7 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ![npm](https://img.shields.io/badge/npm-c12127?logo=npm&logoColor=white&style=for-the-badge)
 ![yarn](https://img.shields.io/badge/yarn-2188b6?logo=yarn&logoColor=white&style=for-the-badge)
+![pnpm](https://img.shields.io/badge/pnpm-2188b6?logo=pnpm&logoColor=white&style=for-the-badge)
 ![vitejs](https://img.shields.io/badge/vite-bd34fe?logo=vite&logoColor=white&style=for-the-badge)
 ![webpack](https://img.shields.io/badge/webpack-2188b6?logo=webpack&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
